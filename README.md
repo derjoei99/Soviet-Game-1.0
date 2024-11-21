@@ -59,8 +59,8 @@ Future chapters will include:
 
 ## GitHub Pages
 This game is hosted via GitHub Pages. You can play it live at:  
-[https://derjoei99.github.io/Soviet-Game1.0/
-](https://https://derjoei99.github.io/Soviet-Game1.0/
+[https://derjoei99.github.io/Soviet-Game-1.0/
+](https://https://derjoei99.github.io/Soviet-Game-1.0/
 )
 
 ---
