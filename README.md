@@ -1,7 +1,7 @@
 # Soviet Union Game
 
 **Welcome, comrade, to the Soviet Union Game!**  
-An interactive historical game where your decisions shape the fate of Russia, the USSR, and the world. Will you lead the revolution to victory, remain neutral and watch chaos unfold, or oppose the Bolsheviks and forge a completely new future? The choice is yours, but beware—history is a fragile thing, and some events, like the Austrian painter with the tiny mustache, poor JFK’s tragic fate, and a 9/11-like event, are inevitable.
+An interactive historical game where your decisions shape the fate of Russia, the USSR, and the world. Will you lead the revolution to victory, remain neutral and watch chaos unfold, or oppose the Bolsheviks and forge a completely new future? The choice is yours, but beware—history, a fragile thing, and some events, like the Austrian painter with tiny mustache, poor JFK’s tragic fate, and a 9/11-like event: inevitable.
 
 ---
 
