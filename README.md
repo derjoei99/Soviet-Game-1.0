@@ -74,7 +74,7 @@ This game is hosted via GitHub Pages. You can play it live at:
 
 ### Credits
 - Developed by **Josef Iebed** (*GitHub: [derjoei99](https://github.com/derjoei99)*) and ChatGPT.
-- Special thanks to [Tenor](https://tenor.com/) for the "https://tenor.com/embed.js".
+- Special thanks to [Tenor](https://tenor.com/) for the **tenor.com**.
 
 ---
 
