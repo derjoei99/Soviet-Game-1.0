@@ -60,7 +60,7 @@ Future chapters will include:
 ## GitHub Pages
 This game is hosted via GitHub Pages. You can play it live at:  
 coming soon
-
+download and play the html version
 ---
 
 ## Future Plans
